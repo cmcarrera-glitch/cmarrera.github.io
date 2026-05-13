@@ -231,9 +231,14 @@ button:hover {
   font-weight: bold;
   color: #9C2007;
 }
-.map {
-  width: 100%;
+.map-box {
   max-width: 600px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.map-box iframe {
+  width: 100%;
   height: 300px;
   border: 0;
 }
