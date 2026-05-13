@@ -231,3 +231,9 @@ button:hover {
   font-weight: bold;
   color: #9C2007;
 }
+.map {
+  width: 100%;
+  max-width: 600px;
+  height: 300px;
+  border: 0;
+}
